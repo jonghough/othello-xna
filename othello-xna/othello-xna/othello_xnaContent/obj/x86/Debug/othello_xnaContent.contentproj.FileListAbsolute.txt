@@ -1,0 +1,2 @@
+C:\Users\jp20151\documents\visual studio 2015\Projects\othello-xna\othello-xna\othello_xnaContent\obj\x86\Debug\othello_xnaContent.contentprojResolveAssemblyReference.cache
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xnaContent\obj\x86\Debug\othello_xnaContent.contentprojResolveAssemblyReference.cache
