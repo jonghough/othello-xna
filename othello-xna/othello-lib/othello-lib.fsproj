@@ -59,11 +59,19 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Library1.fs" />
+    <None Include="resources\startbutton3.png" />
+    <None Include="resources\startbutton.png" />
+    <None Include="resources\startbutton2.png" />
+    <None Include="resources\starthardbutton.png" />
+    <None Include="resources\startmediumbutton.png" />
+    <None Include="resources\starteasybutton.png" />
+    <None Include="resources\greensquare.png" />
     <None Include="Script.fsx" />
     <Compile Include="SquareItem.fs" />
     <Compile Include="GameBoard.fs" />
     <Compile Include="Minimax.fs" />
     <Compile Include="Player.fs" />
+    <Compile Include="XnaButton.fs" />
     <Compile Include="OthelloGame.fs" />
   </ItemGroup>
   <PropertyGroup>

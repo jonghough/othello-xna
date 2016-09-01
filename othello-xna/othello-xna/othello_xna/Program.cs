@@ -15,7 +15,6 @@ namespace othello_xna
 
             using (OthelloGame.Gamex game = new OthelloGame.Gamex())
             {
-                //Content.Load<SpriteFont>("Segoe UI Mono")
                 game.Run();
             }
         }

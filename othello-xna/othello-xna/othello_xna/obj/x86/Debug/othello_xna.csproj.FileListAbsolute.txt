@@ -44,3 +44,13 @@ C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othel
 C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\obj\x86\Debug\othello_xna.exe
 C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\obj\x86\Debug\othello_xna.pdb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\greensquare.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\startbutton.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\startbutton2.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\startbutton3.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\starteasybutton.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\starthardbutton.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\startmediumbutton.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\blackcircle.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\whitecircle.xnb
+C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\resetbutton.xnb

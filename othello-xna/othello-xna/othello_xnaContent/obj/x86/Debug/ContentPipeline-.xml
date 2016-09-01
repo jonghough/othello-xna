@@ -10,6 +10,96 @@
       <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
       <Time>2016-07-29T11:17:36.9962857+09:00</Time>
     </Item>
+    <Item>
+      <Source>greensquare.png</Source>
+      <Name>greensquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\greensquare.xnb</Output>
+      <Time>2016-08-29T09:55:59.0362185+09:00</Time>
+    </Item>
+    <Item>
+      <Source>startbutton.png</Source>
+      <Name>startbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\startbutton.xnb</Output>
+      <Time>2016-08-29T10:26:54.3073238+09:00</Time>
+    </Item>
+    <Item>
+      <Source>startbutton2.png</Source>
+      <Name>startbutton2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\startbutton2.xnb</Output>
+      <Time>2016-08-29T10:26:54.3073238+09:00</Time>
+    </Item>
+    <Item>
+      <Source>startbutton3.png</Source>
+      <Name>startbutton3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\startbutton3.xnb</Output>
+      <Time>2016-08-29T10:26:54.3073238+09:00</Time>
+    </Item>
+    <Item>
+      <Source>starteasybutton.png</Source>
+      <Name>starteasybutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\starteasybutton.xnb</Output>
+      <Time>2016-08-29T10:26:54.322924+09:00</Time>
+    </Item>
+    <Item>
+      <Source>starthardbutton.png</Source>
+      <Name>starthardbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\starthardbutton.xnb</Output>
+      <Time>2016-08-29T10:26:54.322924+09:00</Time>
+    </Item>
+    <Item>
+      <Source>startmediumbutton.png</Source>
+      <Name>startmediumbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\startmediumbutton.xnb</Output>
+      <Time>2016-08-29T10:26:54.322924+09:00</Time>
+    </Item>
+    <Item>
+      <Source>blackcircle.png</Source>
+      <Name>blackcircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\blackcircle.xnb</Output>
+      <Time>2016-08-29T10:30:12.5217367+09:00</Time>
+    </Item>
+    <Item>
+      <Source>whitecircle.png</Source>
+      <Name>whitecircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\whitecircle.xnb</Output>
+      <Time>2016-08-29T10:30:12.5217367+09:00</Time>
+    </Item>
+    <Item>
+      <Source>resetbutton.png</Source>
+      <Name>resetbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jp20151\Documents\Visual Studio 2015\Projects\OTHELLO\othello-xna\othello-xna\othello_xna\bin\x86\Debug\Content\resetbutton.xnb</Output>
+      <Time>2016-08-29T18:19:49.6026516+09:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID Null="true" />

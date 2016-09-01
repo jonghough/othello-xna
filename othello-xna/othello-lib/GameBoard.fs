@@ -77,7 +77,6 @@ let PutColor(squareSeq : seq<Square> byref, i : int, j : int, squareColor : Squa
             | None -> ()
             | Some square ->
                 if square.GetSquareState() = enemy then
-                    square.SetSquareState(squareColor)
                     nextSquareSeq <- Seq.map (fun (r : Square) -> if r.col = a && r.row = b then 
                                                                     r.SetSquareState(squareColor)
                                                                     r

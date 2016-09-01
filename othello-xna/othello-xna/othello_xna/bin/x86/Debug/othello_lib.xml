@@ -19,12 +19,12 @@
 <member name="M:GameBoard.CanFindColorOnLine(System.Collections.Generic.IEnumerable{SquareItem.Square},System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,SquareItem.SquareState)">
 
 </member>
-<member name="M:Minimax.MinimaxController.RunNext(System.Collections.Generic.IEnumerable{SquareItem.Square},SquareItem.SquareState,System.Int32,System.Int32,System.Int32,System.Boolean,System.Collections.Generic.IEnumerable{SquareItem.Square})">
+<member name="M:Minimax.MinimaxController.RunNext(System.Collections.Generic.IEnumerable{SquareItem.Square},SquareItem.SquareState,System.Int32,System.Int32@,System.Int32@,System.Boolean,System.Collections.Generic.IEnumerable{SquareItem.Square})">
 <summary>
  Runs th enext iteration of Minimax, i.e. goes one node lower down the game tree.
 </summary>
 </member>
-<member name="M:Minimax.MinimaxController.RunMinimax(System.Collections.Generic.IEnumerable{SquareItem.Square}@,SquareItem.SquareState,SquareItem.Square,System.Int32,System.Int32,System.Int32,System.Boolean)">
+<member name="M:Minimax.MinimaxController.RunMinimax(System.Collections.Generic.IEnumerable{SquareItem.Square}@,SquareItem.SquareState,SquareItem.Square,System.Int32,System.Int32@,System.Int32@,System.Boolean)">
 <summary>
  Runs the minimax aglorithm. If the maximum depth is reached, then the evaluation function is invoked and the result for this game
  tree leaf node is calculated, else the next level of the game tree is investigated, where color and isMaximizing are
